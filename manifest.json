@@ -1,0 +1,11 @@
+{
+    "name": "Oleksandr's web page",
+    "short_name": "Oleksandr's web page",
+    "start_url": ".",
+    "display": "minimal-ui",
+    "background_color": "#3bf8ff",
+    "theme_color": "#3bf8ff",
+    "description": "Oleksandr's web page",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
